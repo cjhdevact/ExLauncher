@@ -1,0 +1,11 @@
+/Src/.vs/
+
+/Src/*.suo
+
+/Src/ExLauncher/bin/
+
+/Src/ExLauncher/obj/
+
+/Src/packages/
+
+/Src/ExLauncher/Resources/updateurl.txt
